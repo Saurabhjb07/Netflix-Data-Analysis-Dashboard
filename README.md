@@ -1,4 +1,4 @@
-# Netflix-Data-Analysis (Interactive Dashboard Creation using MS Excel)
+# Netflix-Data-Analysis
 
 ## Project Objective
  This project involves loading, cleaning, analyzing, and visualizing data from a Netflix
