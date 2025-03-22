@@ -1,2 +1,5 @@
-# Netflix-Data-Analysis-Dashboard
-I Have Developed a Comprehensive Project in Excel, creating multiple tables and Dashboard to analyze the data. This Process involved several stages, including Data Processing, Data Cleaning and Data Visualization.
+# Netflix-Data-Analysis (Interactive Dashboard Creation using MS Excel)
+
+## Project Objective
+ This project involves loading,cleaning,analyzing,and visualizing data from a Netflix
+ dataset.We'll use MS Excel to work through the project.The goal is to explore the dataset,derive insights.
