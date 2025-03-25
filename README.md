@@ -5,6 +5,8 @@
  dataset. We'll use MS Excel to work through the project. The goal is to uncover trends, 
  patterns, and interesting insights related to Netflix's content library, viewership, and more.
 
+## Dataset Used
+- <a href="https://github.com/Saurabhjb07/Netflix-Data-Analysis-Dashboard/blob/main/netflix1.csv">Dataset</a>
 ## Process
 -	Verify data for any missing values and anomalies, and sort out the same.
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
