@@ -12,6 +12,10 @@
 -	Then created different pivot charts.
 -	Merge all pivot charts into one dashboard and apply slicer to make it dynamic.
 
+## Dashbroad
+![Netflix Dashboard](https://github.com/user-attachments/assets/b770370b-45a8-45cb-9c69-73ae959259b9)
+
+
 ## Conclusion and Insights
  In this project, I have:
  1. Cleaned the data by handling missing values, removing duplicates, and
